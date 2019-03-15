@@ -1,0 +1,14 @@
+{
+  "name": "vandelay",
+  "version": "0.0.1",
+  "description": "Vandelay Industries",
+  "main": "server.js",
+  "author": "Jared Beller",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-basic-auth": "^4.0.0",
+    "koa-static": "^5.0.0",
+    "koa-tree-router": "^0.4.5"
+  }
+}
